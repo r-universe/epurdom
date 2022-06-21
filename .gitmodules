@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "clusterExperiment"]
+	path = clusterExperiment
+	url = https://github.com/epurdom/clusterexperiment
+	shallow = true
+	registered = true
