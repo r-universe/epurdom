@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cancerTiming"]
+	path = cancerTiming
+	url = https://github.com/cran/cancerTiming
+	shallow = true
+	registered = true
 [submodule "clusterExperiment"]
 	path = clusterExperiment
 	url = https://github.com/epurdom/clusterexperiment
